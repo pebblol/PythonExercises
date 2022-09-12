@@ -1,2 +1,2 @@
-# python exercises
-started 1/8/2022
+# learning notes
+notes, examples, exercises
